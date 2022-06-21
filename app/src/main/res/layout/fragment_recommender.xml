@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFDFD"
+    >
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/constraintLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="10dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+    <LinearLayout
+        android:id="@+id/linearLayout"
+        android:layout_width="350dp"
+        android:layout_height="116dp"
+        android:layout_marginTop="36dp"
+        android:background="@drawable/white_background"
+
+        android:elevation="4dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.489"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <LinearLayout
+            android:id="@+id/ll_recommended"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="10dp"
+            android:layout_weight="1"
+            android:background="@drawable/blue_background"
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/recommend_img"
+                android:layout_width="72dp"
+                android:layout_height="50dp"
+                android:layout_margin="8dp"
+                app:srcCompat="@drawable/recommend" />
+
+            <TextView
+                android:id="@+id/recommend"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="8dp"
+                android:text="Recommend"
+                android:textAlignment="center"
+                android:textColor="#7182ef"
+                android:textStyle="bold|italic" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/ll_random"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="10dp"
+            android:layout_weight="1"
+            android:background="@drawable/orange_background"
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/random_img"
+                android:layout_width="74dp"
+                android:layout_height="48dp"
+                android:layout_margin="8dp"
+                app:srcCompat="@drawable/random" />
+
+            <TextView
+                android:id="@+id/random"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="8dp"
+                android:text="Random"
+                android:textAlignment="center"
+                android:textColor="#c77710"
+                android:textStyle="bold|italic" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/ll_best"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="10dp"
+            android:layout_weight="1"
+            android:background="@drawable/green_background"
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/best_img"
+                android:layout_width="82dp"
+                android:layout_height="48dp"
+                android:layout_margin="8dp"
+                app:srcCompat="@drawable/best" />
+
+            <TextView
+                android:id="@+id/best"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="8dp"
+                android:text="Best"
+                android:textAlignment="center"
+                android:textColor="#139b45"
+                android:textStyle="bold|italic" />
+        </LinearLayout>
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/ll_search"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/linearLayout">
+        <EditText
+            android:id="@+id/et_search"
+            android:layout_width="0dp"
+            android:layout_height="50dp"
+            android:layout_weight="4"
+            android:layout_marginStart="40dp"
+            android:layout_margin="14dp"
+            android:layout_marginRight="-10dp"
+            android:background="@drawable/search_edt"
+            android:elevation="3dp"
+            android:ems="10"
+            android:hint="Search For Book"
+            android:paddingStart="20dp"
+            android:textSize="16sp"
+            android:textStyle="bold|italic"
+            />
+
+        <ImageView
+            android:id="@+id/iv_search"
+            android:layout_width="0dp"
+            android:layout_height="50dp"
+            android:layout_weight="1"
+            android:layout_marginTop="14dp"
+            android:src="@drawable/search_icon"
+            />
+    </LinearLayout>
+
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/rv_books"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/ll_search" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

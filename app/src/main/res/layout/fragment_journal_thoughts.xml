@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFDFD"
+    tools:context=".journal.view.JournalThoughtsFragment">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_marginStart="12dp"
+        android:layout_marginEnd="12dp"
+        >
+        <ImageView
+            android:id="@+id/iv_testing"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:layout_marginTop="12dp"/>
+        <GridView
+            android:id="@+id/gv_viewed_Images"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:numColumns="2"
+            android:horizontalSpacing="8dp"
+            android:verticalSpacing="8dp"
+            tools:listitem="@layout/journal_thoughts_item"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:layout_marginTop="12dp"
+            android:layout_marginBottom="35dp"/>
+    </LinearLayout>
+
+
+</FrameLayout>

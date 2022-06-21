@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/proes/Desktop/Mental_Health_Application-master/app/src/main/res/drawable/edittext_background.xml" value="0.164" />
+        <entry key="..\:/Users/proes/Desktop/Mental_Health_Application-master/app/src/main/res/layout-v28/activity_chat.xml" value="0.24583333333333332" />
+        <entry key="..\:/Users/proes/Desktop/Mental_Health_Application-master/app/src/main/res/layout/activity_login.xml" value="0.2" />
+        <entry key="..\:/Users/proes/Desktop/Mental_Health_Application-master/app/src/main/res/layout/activity_main.xml" value="0.144" />
+        <entry key="..\:/Users/proes/Desktop/Mental_Health_Application-master/app/src/main/res/layout/activity_signup.xml" value="0.152" />
+        <entry key="..\:/Users/proes/Desktop/Mental_Health_Application-master/app/src/main/res/layout/fragment_home.xml" value="0.2" />
+        <entry key="..\:/Users/proes/Desktop/Mental_Health_Application-master/app/src/main/res/layout/fragment_journal.xml" value="0.11955420466058764" />
+        <entry key="..\:/Users/proes/Desktop/Mental_Health_Application-master/app/src/main/res/layout/fragment_profile.xml" value="0.11955420466058764" />
+        <entry key="..\:/Users/proes/Desktop/Mental_Health_Application-master/app/src/main/res/layout/fragment_settings.xml" value="0.11955420466058764" />
+        <entry key="..\:/Users/proes/Desktop/Mental_Health_Application-master/app/src/main/res/layout/fragment_yoga.xml" value="0.11955420466058764" />
+        <entry key="..\:/Users/proes/Desktop/Mental_Health_Application-master/app/src/main/res/layout/signup_layout.xml" value="0.23072916666666668" />
+        <entry key="..\:/Users/proes/Desktop/Mental_Health_Application-master/app/src/main/res/layout/toolbar.xml" value="0.11955420466058764" />
+        <entry key="..\:/Users/proes/Desktop/Mental_Health_Application-master/app/src/main/res/layout/user_msg_item.xml" value="0.11955420466058764" />
+        <entry key="..\:/Users/proes/Desktop/Mental_Health_Application-master/app/src/main/res/layout/yoga_row.xml" value="0.11955420466058764" />
+        <entry key="..\:/Users/proes/Desktop/final2/Mental_Health_Application-master/app/src/main/res/drawable-xhdpi/background_banner.xml" value="0.163" />
+        <entry key="..\:/Users/proes/Desktop/final2/Mental_Health_Application-master/app/src/main/res/drawable-xhdpi/background_btn.xml" value="0.163" />
+        <entry key="..\:/Users/proes/Desktop/final2/Mental_Health_Application-master/app/src/main/res/drawable-xhdpi/background_btn_menu.xml" value="0.163" />
+        <entry key="..\:/Users/proes/Desktop/final2/Mental_Health_Application-master/app/src/main/res/drawable-xxxhdpi/custom_button_back.xml" value="0.163" />
+        <entry key="..\:/Users/proes/Desktop/final2/Mental_Health_Application-master/app/src/main/res/drawable/background_blue.xml" value="0.163" />
+        <entry key="..\:/Users/proes/Desktop/final2/Mental_Health_Application-master/app/src/main/res/drawable/edittext_background.xml" value="0.163" />
+        <entry key="..\:/Users/proes/Desktop/final2/Mental_Health_Application-master/app/src/main/res/drawable/home_ic.xml" value="0.163" />
+        <entry key="..\:/Users/proes/Desktop/final2/Mental_Health_Application-master/app/src/main/res/drawable/ic_qoutes.xml" value="0.16" />
+        <entry key="..\:/Users/proes/Desktop/final2/Mental_Health_Application-master/app/src/main/res/layout-v28/activity_chat.xml" value="0.25" />
+        <entry key="..\:/Users/proes/Desktop/final2/Mental_Health_Application-master/app/src/main/res/layout-v28/activity_note.xml" value="0.15217391304347827" />
+        <entry key="..\:/Users/proes/Desktop/final2/Mental_Health_Application-master/app/src/main/res/layout-v28/activity_note_rv_item.xml" value="0.15217391304347827" />
+        <entry key="..\:/Users/proes/Desktop/final2/Mental_Health_Application-master/app/src/main/res/layout-v28/fragment_yoga_details.xml" value="0.4838709677419355" />
+        <entry key="..\:/Users/proes/Desktop/final2/Mental_Health_Application-master/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Users/proes/Desktop/final2/Mental_Health_Application-master/app/src/main/res/layout/activity_main.xml" value="0.15217391304347827" />
+        <entry key="..\:/Users/proes/Desktop/final2/Mental_Health_Application-master/app/src/main/res/layout/activity_quotes.xml" value="0.25" />
+        <entry key="..\:/Users/proes/Desktop/final2/Mental_Health_Application-master/app/src/main/res/layout/activity_signup.xml" value="0.25" />
+        <entry key="..\:/Users/proes/Desktop/final2/Mental_Health_Application-master/app/src/main/res/layout/bot_msg_item.xml" value="0.25" />
+        <entry key="..\:/Users/proes/Desktop/final2/Mental_Health_Application-master/app/src/main/res/layout/fragment_home.xml" value="0.25" />
+        <entry key="..\:/Users/proes/Desktop/final2/Mental_Health_Application-master/app/src/main/res/layout/fragment_journal.xml" value="0.2" />
+        <entry key="..\:/Users/proes/Desktop/final2/Mental_Health_Application-master/app/src/main/res/layout/fragment_profile.xml" value="0.25" />
+        <entry key="..\:/Users/proes/Desktop/final2/Mental_Health_Application-master/app/src/main/res/layout/fragment_settings.xml" value="0.25" />
+        <entry key="..\:/Users/proes/Desktop/final2/Mental_Health_Application-master/app/src/main/res/layout/fragment_yoga.xml" value="0.25" />
+        <entry key="..\:/Users/proes/Desktop/final2/Mental_Health_Application-master/app/src/main/res/layout/user_msg_item.xml" value="0.25" />
+        <entry key="..\:/Users/proes/Desktop/final2/Mental_Health_Application-master/app/src/main/res/layout/yoga_row.xml" value="0.25" />
+        <entry key="..\:/Users/proes/Desktop/final2/Mental_Health_Application-master/app/src/main/res/menu/bottom_navigation_item.xml" value="0.25" />
+        <entry key="..\:/Users/proes/Desktop/final2/Mental_Health_Application-master/app/src/main/res/menu/chat_menu.xml" value="0.25" />
+        <entry key="..\:/Users/r7ma2/OneDrive/Desktop/mental_git/mental_health_/app/src/main/res/drawable-xhdpi/background_btn.xml" value="0.1" />
+        <entry key="..\:/Users/r7ma2/OneDrive/Desktop/mental_git/mental_health_/app/src/main/res/drawable-xhdpi/background_btn_menu.xml" value="0.1" />
+        <entry key="..\:/Users/r7ma2/OneDrive/Desktop/mental_git/mental_health_/app/src/main/res/drawable/blue_background.xml" value="0.1" />
+        <entry key="..\:/Users/r7ma2/OneDrive/Desktop/mental_git/mental_health_/app/src/main/res/drawable/edittext_background.xml" value="0.1" />
+        <entry key="..\:/Users/r7ma2/OneDrive/Desktop/mental_git/mental_health_/app/src/main/res/drawable/green_background.xml" value="0.1" />
+        <entry key="..\:/Users/r7ma2/OneDrive/Desktop/mental_git/mental_health_/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/r7ma2/OneDrive/Desktop/mental_git/mental_health_/app/src/main/res/drawable/orange_background.xml" value="0.1" />
+        <entry key="..\:/Users/r7ma2/OneDrive/Desktop/mental_git/mental_health_/app/src/main/res/drawable/white_background.xml" value="0.1" />
+        <entry key="..\:/Users/r7ma2/OneDrive/Desktop/mental_git/mental_health_/app/src/main/res/layout/activity_add_edit_note.xml" value="0.215625" />
+        <entry key="..\:/Users/r7ma2/OneDrive/Desktop/mental_git/mental_health_/app/src/main/res/layout/activity_note.xml" value="0.215625" />
+        <entry key="..\:/Users/r7ma2/OneDrive/Desktop/mental_git/mental_health_/app/src/main/res/layout/activity_note_rv_item.xml" value="0.215625" />
+        <entry key="..\:/Users/r7ma2/OneDrive/Desktop/mental_git/mental_health_/app/src/main/res/layout/bot_msg_item.xml" value="0.10092592592592593" />
+        <entry key="..\:/Users/r7ma2/OneDrive/Desktop/mental_git/mental_health_/app/src/main/res/layout/fragment_home.xml" value="0.215625" />
+        <entry key="..\:/Users/r7ma2/OneDrive/Desktop/mental_git/mental_health_/app/src/main/res/layout/fragment_journal.xml" value="0.215625" />
+        <entry key="..\:/Users/r7ma2/OneDrive/Desktop/mental_git/mental_health_/app/src/main/res/layout/fragment_journal_thoughts.xml" value="0.10486322188449848" />
+        <entry key="..\:/Users/r7ma2/OneDrive/Desktop/mental_git/mental_health_/app/src/main/res/layout/fragment_profile.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/r7ma2/OneDrive/Desktop/mental_git/mental_health_/app/src/main/res/layout/fragment_recommender.xml" value="0.2" />
+        <entry key="..\:/Users/r7ma2/OneDrive/Desktop/mental_git/mental_health_/app/src/main/res/layout/fragment_settings.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/r7ma2/OneDrive/Desktop/mental_git/mental_health_/app/src/main/res/layout/fragment_yoga.xml" value="0.215625" />
+        <entry key="..\:/Users/r7ma2/OneDrive/Desktop/mental_git/mental_health_/app/src/main/res/layout/fragment_yoga_details.xml" value="0.215625" />
+        <entry key="..\:/Users/r7ma2/OneDrive/Desktop/mental_git/mental_health_/app/src/main/res/layout/journal_item.xml" value="0.215625" />
+        <entry key="..\:/Users/r7ma2/OneDrive/Desktop/mental_git/mental_health_/app/src/main/res/layout/journal_thoughts_item.xml" value="0.10486322188449848" />
+        <entry key="..\:/Users/r7ma2/OneDrive/Desktop/mental_git/mental_health_/app/src/main/res/layout/recommender_item.xml" value="0.10486322188449848" />
+        <entry key="..\:/Users/r7ma2/OneDrive/Desktop/mental_git/mental_health_/app/src/main/res/layout/toolbar.xml" value="0.1" />
+        <entry key="..\:/Users/r7ma2/OneDrive/Desktop/mental_git/mental_health_/app/src/main/res/layout/user_msg_item.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/r7ma2/OneDrive/Desktop/mental_git/mental_health_/app/src/main/res/layout/yoga_row.xml" value="0.1" />
+        <entry key="..\:/Users/r7ma2/OneDrive/Desktop/mental_git/mental_health_/app/src/main/res/menu/bottom_navigation_item.xml" value="0.215625" />
+        <entry key="..\:/project/Mental_Health_Application-master-20220520T172427Z-001/Mental_Health_Application-master/app/src/main/res/layout-v28/activity_add_edit_note.xml" value="0.35052083333333334" />
+        <entry key="..\:/project/Mental_Health_Application-master-20220520T172427Z-001/Mental_Health_Application-master/app/src/main/res/layout-v28/activity_chat.xml" value="0.176" />
+        <entry key="..\:/project/Mental_Health_Application-master-20220520T172427Z-001/Mental_Health_Application-master/app/src/main/res/layout/activity_login.xml" value="0.35052083333333334" />
+        <entry key="..\:/project/Mental_Health_Application-master-20220520T172427Z-001/Mental_Health_Application-master/app/src/main/res/layout/bot_msg_item.xml" value="0.25" />
+        <entry key="..\:/project/Mental_Health_Application-master-20220520T172427Z-001/Mental_Health_Application-master/app/src/main/res/layout/user_msg_item.xml" value="0.35052083333333334" />
+        <entry key="..\:/project/Mental_Health_Application-master-20220520T172427Z-001/Mental_Health_Application-master/app/src/main/res/menu/chat_menu.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
